@@ -30,7 +30,6 @@ This repository demonstrates my skills in:
 **Name:** Abdulaziz Aloufi  
 **Student ID:** C00266252  
 **Email:** mr.alofi19@gmail.com  
-**LinkedIn:** <!-- add your link here, or remove this line -->  
 **GitHub:** https://github.com/Abdulaziz1313  
 
 ---
@@ -82,3 +81,4 @@ student-performance-portfolio/
 │
 ├── requirements.txt            # Python dependencies
 └── README.md                   # this file
+
