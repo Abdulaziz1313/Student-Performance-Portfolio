@@ -60,9 +60,9 @@ This repository demonstrates my skills in:
 ## 4. Project Structure (Infrastructure for Data)
 
 ```text
-student-performance-portfolio/
+student performance/
 │
-├── .venv/                      # local virtual environment (not committed to Git)
+├── .venv/                      
 │
 ├── data/
 │   └── student-mat.csv         # raw dataset
@@ -76,9 +76,8 @@ student-performance-portfolio/
 │   └── best_model.pkl          # saved Random Forest model
 │
 ├── reports/
-│   ├── single_item_report.pdf  # first 10% portfolio item
-│   └── final_report.pdf        # full portfolio report
+│   └── Student Performance Predictor.pdf        # full portfolio report
 │
-├── requirements.txt            # Python dependencies
 └── README.md                   # this file
+
 
